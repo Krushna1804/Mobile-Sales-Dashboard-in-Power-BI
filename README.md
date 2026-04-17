@@ -1,1 +1,1 @@
-
+![Dashboard Preview](screenshot.png)
